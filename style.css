@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(166, 240, 215);
+}
+.l{
+    width: 140px;
+    height: 100px;
+}
+.ç{
+    display: flex;
+}
+.o{
+    padding-left: 500px;
+}
+.pelegrini{
+    display: flex;
+}
+.g{
+    padding-left: 700px;
+    padding-top: 25px;
+}
+.lima{
+    display: flex;
+}
+.rafael{
+padding-left: 50px;
+}
+.vande{
+    padding-left: 50px;
+}
+.vanderlei{
+    padding-left: 50px;
+     }
+.rafa{
+    padding-left: 50px;
+}
+.erica{
+    width: 300px;
+    height: 300px;
+}
+.lucas{
+    width: 300px;
+    height: 300px;
+}
+.sara{
+    width: 300px;
+    height: 300px;
+}
+.samuel{
+    width: 300px;
+    height: 300px;
+}
